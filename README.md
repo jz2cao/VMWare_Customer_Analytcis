@@ -1,7 +1,7 @@
 # VMWare_Customer_Analytcis
 
 ## Objective
-Predict which form of content (target column) a user is most likely to engage on purchase based on their behaviours in the platform.
+Predict which form of content (target column) a user is most likely to engage on based on their behaviours in the platform.
 Target data is heavily imbalanced.
 
 ## Project flow
@@ -11,6 +11,5 @@ Target data is heavily imbalanced.
 - Convert to binary classification to resolve the imbalance data issue and compare the performance
 
 ## Target column data dictionary
-## Data dictionary
 ![TargetDataDictionary](/TargetDataDictionary.png)
 ![TargetDataChart](/TargetDataChart.png)
