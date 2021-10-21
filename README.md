@@ -1,4 +1,4 @@
-# VMWare_Customer_Analytcis
+# VMWare_Customer_Analytics
 
 ## Objective
 Predict which form of content (target column) a user is most likely to engage on based on their behaviours in the platform.
